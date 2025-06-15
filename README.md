@@ -38,4 +38,4 @@ I’m **Pragya Laxkar** — a DevOps Engineer who lives and breathes automation.
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/pragyalaxkar)
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/pragyalaxkar) [Medium](https://medium.com/@pragyalaxkar2902)
