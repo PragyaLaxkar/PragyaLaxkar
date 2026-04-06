@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Pragya+Laxkar+%F0%9F%91%8B;DevOps+Engineer+%7C+AWS+%7C+Kubernetes;GitOps+%7C+CI%2FCD+%7C+Observability;Building+infra+that+doesn't+wake+you+up+at+3am)](https://github.com/PragyaLaxkar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Pragya+Laxkar+%F0%9F%91%8B;DevOps+Engineer+%7C+AWS+%7C+Kubernetes;GitOps+%7C+CI%2FCD+%7C+Observability;Infra+that+won't+wake+you+up+at+3am)](https://github.com/PragyaLaxkar)
 
 <p>
   <a href="https://linkedin.com/in/pragyalaxkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -95,8 +95,14 @@ A Python-based web automation platform with a CGI backend and HTML frontend, des
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PragyaLaxkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragyaLaxkar&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=PragyaLaxkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragyaLaxkar&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" height="160" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=PragyaLaxkar&theme=github-dark-blue&hide_border=true" height="160" />
 
 </div>
 
