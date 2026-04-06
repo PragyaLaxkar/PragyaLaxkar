@@ -95,8 +95,8 @@ A Python-based web automation platform with a CGI backend and HTML frontend, des
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PragyaLaxkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragyaLaxkar&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PragyaLaxkar&theme=github_dark" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PragyaLaxkar&theme=github_dark" height="160" />
 
 </div>
 
