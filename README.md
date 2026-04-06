@@ -37,6 +37,7 @@ I also write about DevOps on [Medium](https://medium.com/@pragyalaxkar2902) — 
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
@@ -57,6 +58,8 @@ I also write about DevOps on [Medium](https://medium.com/@pragyalaxkar2902) — 
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![SigNoz](https://img.shields.io/badge/SigNoz-F05A28?style=flat&logo=signoz&logoColor=white)
 
 **Scripting & Automation**
 
@@ -95,8 +98,8 @@ A Python-based web automation platform with a CGI backend and HTML frontend, des
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PragyaLaxkar&theme=github_dark" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PragyaLaxkar&theme=github_dark" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=PragyaLaxkar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragyaLaxkar&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" height="160" />
 
 </div>
 
