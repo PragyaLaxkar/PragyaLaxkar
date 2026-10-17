@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a **DevOps Engineer** currently at **Aguken AI**, where I own the infrastructure for a live AI voice platform — from Kubernetes cluster operations on AWS EKS to GitOps delivery pipelines and full-stack observability. I care about automation that is reliable, infrastructure that scales without drama, and deployments that developers can trust.
+I'm a **DevOps Engineer** currently at **Redrob by McKinley Rice**, where I own the infrastructure for a live AI voice platform — from Kubernetes cluster operations on AWS EKS to GitOps delivery pipelines and full-stack observability. I care about automation that is reliable, infrastructure that scales without drama, and deployments that developers can trust.
 
 I also write about DevOps on [Medium](https://medium.com/@pragyalaxkar2902) — practical walkthroughs, not theory.
 
